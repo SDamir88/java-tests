@@ -1,4 +1,4 @@
-package practice;
+package working;
 
 public class OperatorsAndDataTypesTests {
 
