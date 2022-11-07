@@ -25,11 +25,9 @@ public class OperatorsAndDataTypesTests {
         System.out.println("--e =" + (--e));
         System.out.println("b == d =" + (b == d));
         System.out.println("c != e =" + (c != e));
-
         System.out.println("f && g && h = " + (f && g && h));
         System.out.println("g || h && i = " + (g || h && i) );
         System.out.println("!(h && i) || f = " + (!(h && i) || f));
-
         System.out.println("a += e =" + a);
         System.out.println("b /= c %= e =" + b);
     }
