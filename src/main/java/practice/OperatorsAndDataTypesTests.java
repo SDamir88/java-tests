@@ -18,7 +18,6 @@ public class OperatorsAndDataTypesTests {
         b /= c %= e;
 
         System.out.println("a + b = " + (a + b));
-
         System.out.println("c - d = " + (c - d));
         System.out.println("a * b / e = " + (a * b / e));
         System.out.println("b / a % c = " + (b / a % c));
